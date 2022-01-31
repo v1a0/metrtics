@@ -14,7 +14,7 @@ jobs:
       - name: 🧑‍🤝‍🧑 People (Stars)
         uses: lowlighter/metrics@master
         with:
-          filename: pics/metrics-stars.svg
+          filename: pics/sqllex/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
