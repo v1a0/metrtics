@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Release 1.2.9</span>
+                                        <span class="bold">Release 1.2.10</span>
                                         of
                                         <span class="repo">v1a0/django-utk</span>
                                     </div>
@@ -39,7 +39,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v1.2.9</span>
+                                        <span class="code">v1.2.10</span>
                                         in
                                         <span class="repo">v1a0/django-utk</span>
                                     </div>
@@ -60,18 +60,18 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ab3786</div>
-                                        <div class="message">Merge pull request #38 from v1a0/develop
+                                        <div class="sha">#398af2c</div>
+                                        <div class="message">Merge pull request #39 from v1a0/develop
 
-Release 1.2.9</div>
+Release 1.2.10</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2b3cb1d</div>
-                                        <div class="message">[*] update version 1.2.8 -&gt; 1.2.9</div>
+                                        <div class="sha">#962f439</div>
+                                        <div class="message">[*] update version 1.2.9 -&gt; 1.2.10</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#550e96c</div>
-                                        <div class="message">[*] Fix imports</div>
+                                        <div class="sha">#9679baf</div>
+                                        <div class="message">[*] fix type issue</div>
                                     </div>
                                 </div>
                             </section>
@@ -84,7 +84,7 @@ Release 1.2.9</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#38 Release 1.2.9</span>
+                                        <span class="issue">#39 Release 1.2.10</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -101,7 +101,7 @@ Release 1.2.9</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#38 Release 1.2.9</span>
+                                        <span class="issue">#39 Release 1.2.10</span>
                                     </div>
                                 </div>
                                 <div class="details">
